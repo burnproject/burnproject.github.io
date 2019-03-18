@@ -3,28 +3,13 @@ layout: page
 title: Documentación
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
-
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+NOSOTROS 
+Somos un grupo de estudiantes de la especialidad de Ingeniería Biomédica de las universidades Pontificia Universidad Católica del Perú y Universidad Cayetano Heredia con gran interés en brindar soluciones en las diversas problemáticas en salud que se presentan a nivel local y mundial.
+ 
+Como parte del curso Fundamentos de Biodiseño, estamos encargados de diseñar y prototipar un dispositivo que permita la íntegra recuperación de pacientes que han sufrido de quemaduras de segundo y tercer grado a nivel facial.
+ 
+El equipo de trabajo está conformado por:
+-        Coordinador General - Jorge Leiva
+-        Coordinadora Técnica - Angie Benites
+-        Coordinador de Información - Manuel Yampufé
+-        Coordinador Editorial - Héctor Alegría
