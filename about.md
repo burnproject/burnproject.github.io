@@ -20,10 +20,11 @@ El equipo de trabajo está conformado por:
  <strong>SEMANA 1 </strong>
 
  <strong>Problemática</strong>
+ 
+ 
+<cite> "Globalmente, las quemaduras son un serio problema de salud pública. Un estimado de 265000 muertes ocurren cada año sólo por fuegos, con más muertes en líquidos calientes, quemaduras eléctricas y otras formas de quemaduras cuyas estatisticas mundiales no estan disponibles." </cite> -Organización Mundial de la Salud.
 
 En Latinoamérica en promedio, 1351 casos de quemaduras requieren hospitalización, y alrededor de 23 mueren anualmente. En el Perú más específicamente, en el 2013, en el Instituto Nacional de Salud del Niño (INSN), escenario de un estudio, se hospitalizaron 291 niños, 54% de un a cuatro años, 23 % de cinco a nueve años; el 70% sufrió quemaduras por caída de líquidos calientes sobre su cuerpo, 30% restante tuvo contacto directo con fuego. (Arredondo, 2016)
-
-<cite> "Globalmente, las quemaduras son un serio problema de salud pública. Un estimado de 265000 muertes ocurren cada año sólo por fuegos, con más muertes en líquidos calientes, quemaduras eléctricas y otras formas de quemaduras cuyas estatisticas mundiales no estan disponibles." </cite> -Organización Mundial de la Salud.
 
 <strong>¿Sabías qué?</strong>
 
