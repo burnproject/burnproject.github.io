@@ -3,13 +3,13 @@ layout: page
 title: Documentación
 ---
 
-####<strong> Nosotros</strong>
+#### <strong> Nosotros</strong>
 
 Somos un grupo de estudiantes de la especialidad de Ingeniería Biomédica de las universidades Pontificia Universidad Católica del Perú y Universidad Cayetano Heredia con gran interés en brindar soluciones en las diversas problemáticas en salud que se presentan a nivel local y mundial.
  
 Como parte del curso Fundamentos de Biodiseño, estamos encargados de diseñar y prototipar un dispositivo que permita la íntegra recuperación de pacientes que han sufrido de quemaduras de segundo y tercer grado a nivel facial.
 
-#### <strong>Equipo</strong>
+ #### <strong>Equipo</strong>
 
 El equipo de trabajo está conformado por:
 -        Coordinador General - Jorge Leiva
@@ -27,9 +27,10 @@ En Latinoamérica en promedio, 1351 casos de quemaduras requieren hospitalizaci�
 
 <strong>¿Sabías qué?</strong>
 
-●      En 2004, casi 11 millones de personas de todo el mundo sufrieron quemaduras lo suficientemente graves para requerir atención médica. (World Health Organization, 2018)
-●      En Noruega, los costos de la gestión hospitalaria de las quemaduras superaron en 2007 los 10,5 millones de Euros. (World Health Organization, 2018)
-●      En la región Huánuco existe una población de pacientes quemados pediátricos en etapa aguda y de secuelas no satisfecha. (El Comercio Perú, 2018)
+-      En 2004, casi 11 millones de personas de todo el mundo sufrieron quemaduras lo suficientemente graves para requerir atención médica. (World Health Organization, 2018)
+-      En Noruega, los costos de la gestión hospitalaria de las quemaduras superaron en 2007 los 10,5 millones de Euros. (World Health Organization, 2018)
+-      En la región Huánuco existe una población de pacientes quemados pediátricos en etapa aguda y de secuelas no satisfecha. (El Comercio Perú, 2018)
+
 Las quemaduras constituyen importante problema de salud pública, se consideran segunda causa de muerte en menores de edad, ocupan el primer lugar de accidentes en el hogar, principalmente en familias vulnerables económicamente, y tienen repercusión social y económica. Para los Estados Unidos de América, en el 2010, el costo de hospitalización significó tres billones de dólares.
 
 
