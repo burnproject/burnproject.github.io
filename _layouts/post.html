@@ -2,24 +2,10 @@
 layout: default
 ---
 
-<div class="post">
-  <h1 class="Nosotros">{{ post }}</h1>
-  <span class="2019-19-03">{{ page.date | date_to_string }}</span>
-  {{ 
-Somos un grupo de estudiantes de la especialidad de Ingeniería Biomédica de las universidades Pontificia Universidad Católica del Perú y Universidad Cayetano Heredia con gran interés en brindar soluciones en las diversas problemáticas en salud que se presentan a nivel local y mundial.
- 
-Como parte del curso Fundamentos de Biodiseño, estamos encargados de diseñar y prototipar un dispositivo que permita la íntegra recuperación de pacientes que han sufrido de quemaduras de segundo y tercer grado a nivel facial.
+<  <h1 class="post-title">{{ page.title }}</h1>
+  <span class="post-date">{{ page.date | date_to_string }}</span>
+  {{ content }}
 
-### Equipo
-
-El equipo de trabajo está conformado por:
--        Coordinador General - Jorge Leiva
--        Coordinadora Técnica - Angie Benites
--        Coordinador de Información - Manuel Yampufé
--        Coordinador Editorial - Héctor Alegría
-
-
-}}
 </div>
 
 <div class="related">
