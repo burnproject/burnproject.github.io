@@ -46,13 +46,12 @@ Las quemaduras severas causan discapacidad física, psicológica, social y labor
 La sociedad actual ve la apariencia física como instrumento básico para alcanzar el éxito social y laboral, y, es reforzado por los medios de comunicación. Sin embargo, muchas veces se confunde imagen corporal con apariencia física, la imagen corporal involucra el sentimiento que cada persona tiene en relación a su propio cuerpo, cualquier alteración en la imagen influye en la autoestima, trayendo como consecuencia un gran impacto psicológico y emocional colocando a la persona en situación de crisis con una alta vulnerabilidad psicológica. (Arredondo, 2016)
 
 
+<html>
+<body>
 
+<h2>HTML Image</h2>
+<img src="https://howzak.com/wp-content/uploads/2019/03/Burns.jpg" alt="Trulli" width="500" height="333">
 
-
-
-
-
-<img class="fit-picture"
-     src="/https://howzak.com/wp-content/uploads/2019/03/Burns.jpg"
-     alt="Grapefruit slice atop a pile of other slices" />
+</body>
+</html>
 
