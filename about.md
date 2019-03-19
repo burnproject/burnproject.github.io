@@ -30,3 +30,6 @@ POSIBLES SABÍAS QUE:
 ●      En Noruega, los costos de la gestión hospitalaria de las quemaduras superaron en 2007 los 10,5 millones de Euros. (World Health Organization, 2018)
 ●      En la región Huánuco existe una población de pacientes quemados pediátricos en etapa aguda y de secuelas no satisfecha. (El Comercio Perú, 2018)
 Las quemaduras constituyen importante problema de salud pública, se consideran segunda causa de muerte en menores de edad, ocupan el primer lugar de accidentes en el hogar, principalmente en familias vulnerables económicamente, y tienen repercusión social y económica. Para los Estados Unidos de América, en el 2010, el costo de hospitalización significó tres billones de dólares.
+
+
+<img> https://img.forumfree.net/index_file/spacer.gif </img>
