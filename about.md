@@ -34,4 +34,7 @@ En Latinoamérica en promedio, 1351 casos de quemaduras requieren hospitalizaci�
 Las quemaduras constituyen importante problema de salud pública, se consideran segunda causa de muerte en menores de edad, ocupan el primer lugar de accidentes en el hogar, principalmente en familias vulnerables económicamente, y tienen repercusión social y económica. Para los Estados Unidos de América, en el 2010, el costo de hospitalización significó tres billones de dólares.
 
 
-<img>  </img>
+<img class="fit-picture"
+     src="/media/examples/grapefruit-slice-332-332.jpg"
+     alt="Grapefruit slice atop a pile of other slices" />
+
