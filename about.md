@@ -53,6 +53,6 @@ La sociedad actual ve la apariencia física como instrumento básico para alcanz
 
 
 <img class="fit-picture"
-     src="/media/examples/grapefruit-slice-332-332.jpg"
+     src="/https://howzak.com/wp-content/uploads/2019/03/Burns.jpg"
      alt="Grapefruit slice atop a pile of other slices" />
 
