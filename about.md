@@ -55,11 +55,13 @@ Las quemaduras de tercer grado destruyen la epidermis y dermis y pueden dañar e
 
 - Quemaduras de cuarto grado. Las quemaduras de cuarto grado también dañan los huesos, músculos y tendones subyacentes. No hay sensación en el área, ya que las terminales nerviosas han sido destruidas.
 
+<html>
+<head>
 <style>
 table {
   font-family: calibri, sans-serif;
   border-collapse: collapse;
-  width: 80%;
+  width: 100%;
 }
 
 td, th {
@@ -72,6 +74,7 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
 </style>
+</head>
 <body>
 <h2>Pacientes registrados en el Registro Global de Quemaduras en Perú</h2>
 <table>
@@ -111,7 +114,10 @@ tr:nth-child(even) {
     <td>100</td>
   </tr>
 </table>
-</style>
+
+</body>
+</html>
+
 Fuente: Registro Global de Quemaduras (OMS)
 https://extranet.who.int/sree/Reports?op=vs&path=%2FWHO_HQ_Reports/G38/PROD/EXT/GBR&VSPARAM_varLanguage=es
 
