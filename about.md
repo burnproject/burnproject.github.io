@@ -67,11 +67,8 @@ Actualmente se desconocen publicaciones sobre el abordaje con presoterapia en qu
 
 <Tratamientos actuales en contra de las quemaduras>
    <img src="http://i68.tinypic.com/28mcqhy.png" alt="Italian Trulli">
-  <br>--
-<img src="http://i68.tinypic.com/se3kgn.jpg" alt="Italian Trulli>
-      <br>--                                            
-<img src="http://i65.tinypic.com/2q340ok.png" alt="Italian Trulli>
-       <br>--                                            
+<img src="http://i68.tinypic.com/se3kgn.jpg" alt="Italian Trulli>                                            
+<img src="http://i65.tinypic.com/2q340ok.png" alt="Italian Trulli>                                            
   <img src="http://i65.tinypic.com/ofdpgl.jpg" alt="Italian Trulli>
                                                      
                                                      
@@ -153,7 +150,7 @@ De acuerdo a la regla de Wallace,el paciente tiene 7.5% SCT quemada distribuida 
 Aparte se le aplicó el examen clínico de pinzado rodado para determinar el estado de percepción táctil anormal y dolor en las áreas afectadas (Disestesias y alodíneas respectivamente), los cuales fueron positivos.
 
 Se le realizaron exámenes de bioanálisis complementarios (serológicos y bioquímicos) cuyos valores fueron normales, sin embargo, el paciente presentó una luxo fractura en varios huesos del pie que se trataron con alineación y fijación de fractura aparte de la fisioterapia correspondiente para mejorar esta articulación.
-
+<p>
 <b>Referencias</b>
 - Álvaro Cuadra, C. D. (2010). Quemaduras faciales: “manejo inicial y tratamiento”. Revista Médica Clínica Las Condes, 11, 41-45. Obtenido de https://www.sciencedirect.com/science/article/pii/S0716864010705046
 - Aproquen. (26 de diciembre de 2013). Causas frecuentes de las quemaduras. Obtenido de https://www.elnuevodiario.com.ni/infografia/1303/
