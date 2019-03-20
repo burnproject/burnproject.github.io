@@ -146,14 +146,30 @@ Aparte se le aplicó el examen clínico de pinzado rodado para determinar el est
 Se le realizaron exámenes de bioanálisis complementarios (serológicos y bioquímicos) cuyos valores fueron normales, sin embargo, el paciente presentó una luxo fractura en varios huesos del pie que se trataron con alineación y fijación de fractura aparte de la fisioterapia correspondiente para mejorar esta articulación.
 
 <b>Referencias</b>
+- Álvaro Cuadra, C. D. (2010). Quemaduras faciales: “manejo inicial y tratamiento”. Revista Médica Clínica Las Condes, 11, 41-45. Obtenido de https://www.sciencedirect.com/science/article/pii/S0716864010705046
 - Aproquen. (26 de diciembre de 2013). Causas frecuentes de las quemaduras. Obtenido de https://www.elnuevodiario.com.ni/infografia/1303/
 - Arredondo, E. C. (2016). Experiencias de adolescentes con secuelas de quemaduras severas atendidos en el Instituto Nacional de Salud del Niño. Revista Brasileira de Queimaduras 2016, 15(1). Obtenido de http://www.rbqueimaduras.com.br/how-to-cite/289/pt-BR
+- Barrantes, E. A. (2014). USO DE LA ROPA COMPRESIVA EN PACIENTES VÍCTIMAS DE QUEMADURAS INGRESADOS EN EL PRIMER SEMESTRE DEL AÑO 2015 A LA FASE INTERHOSPITALARIA Y AMBULATORIA DE LA ASOCIACIÓN PRO-NIÑOS QUEMADOS DE NICARAGUA - APROQUEN. Obtenido de http://repositorio.unan.edu.ni/7878/1/t921.pdf
+- CICAMED. (s.f.). Productos. Obtenido de http://cicamed.com.mx/objetivo.html
+- DEPARTAMENTO HOSPITAL GENERAL DE VALENCIA / UNIDAD DE ENFERMERIA DERMATOLOGICA, Ú. Y. (s.f.). PROTOCOLO DE TRATAMIENTO DE QUEMADURAS EN ATENCIÓN PRIMARIA. Obtenido de http://chguv.san.gva.es/documents/10184/28508/Protocolo+de+tratamiento+de+quemaduras+en+atenci%C3%B3n+primaria/e3aa4e46-c64f-4c5d-8eee-62b1b691aae7
+- Dres. Moraleda E., G.-P. R. (2011). Tratamiento de las quemaduras. En S. Madrid (Ed.), Manual de Urgencias Quirúrgicas (4ta ed., págs. 407-415). Madrid: Hospital Universitario Ramón y Cajal. Obtenido de http://irycis.org/doc/Publicaciones/Manual_Urgencias_Quirurgicas_4Ed.pdf#page=407
+- DSalud. (enero de 2005). El tratamiento de las quemaduras con Bionfotonterapia. DSalud(68).
 - El Comercio Perú. (30 de julio de 2018). Inician campaña gratuita de atención médica a niños quemados en Huánuco. El Comercio. Obtenido de https://elcomercio.pe/peru/huanuco/inician-campana-gratuita-atencion-medica-ninos-quemados-huanuco-noticia-541564
+- Enrique Salmerón-González, E. G.-V.-C.-S.-P.-V.-G.-d.-C. (2017). Recomendaciones de rehabilitación en el paciente quemado: Revisión de literatura. Revista Brasileira de Queimaduras, 13. Obtenido de http://www.rbqueimaduras.com.br/export-pdf/373/v16n2a11.pdf
+- HELEN J. HISLOP, J. M. (s.f.). Técnicas de Balance Muscular (Vol. 7ma Edición). S.A. ELSEVIER ESPAÑA.
 - Hospital General de Culiacán. (s.f.). Hospital General de Culiacán. Obtenido de http://www.hgculiacan.com/bilblioteca%20medica/quemaduras/capitulo1.htm
+- Jin-Wei Ai, J.-t. L.-D.-S.-m. (2017). The effectiveness of pressure therapy (15–25 mmHg) for hypertrophic burn scars: A systematic review and meta-analysis. Scientific Reports. Obtenido de https://www.nature.com/articles/srep40185
+- Martínez, Y. (s.f.). Curan quemaduras con un spray de células madre y un apósito “capilar”. Obtenido de https://www.tendencias21.net/Curan-quemaduras-con-un-spray-de-celulas-madre-y-un-aposito-capilar_a5707.html
+- Nicola A Clayton, P. A.-F. (7 de marzo de 2019). Ablative fractional resurfacing in acute care management of facial burns: a new approach to minimise the need for acute surgical reconstruction. Journal of Burn Care and Research. Obtenido de https://academic.oup.com/jbcr/advance-article-abstract/doi/10.1093/jbcr/irz030/5371487?redirectedFrom=fulltext
 - Pontificia Universidad Católica de Chile. (s.f.). El cuidado del niño quemado. Obtenido de Impacto Social: http://www7.uc.cl/sw_educ/ninoquemado/html/frames/fr_impacto4.html
 - Stanford Children's Health. (s.f.). Stanford Children's Health. Obtenido de Clasificación de las quemaduras: https://www.stanfordchildrens.org/es/topic/default?id=clasificacindelasquemaduras-90-P09576
+- Universidad Complutense de Madrid. (7 de febrero de 2014). Tratamiento de las Quemaduras. Obtenido de https://www.ucm.es/data/cont/docs/420-2014-02-07-TRATAMIENTO-QUEMADURAS-15-Dic-2013.pdf
 - World Health Organization. (6 de marzo de 2018). Quemaduras. Obtenido de https://www.who.int/es/news-room/fact-sheets/detail/burns
 - World Health Organization. (s.f.). Violence and Injury Prevention. Obtenido de Burns: https://www.who.int/violence_injury_prevention/other_injury/burns/en/
+- Zapata-Sirvent, R. L. (noviembre de 2005). Métodos para tratar la cicatrización hipertrófica y los queloides en el paciente quemado. Obtenido de https://www.researchgate.net/publication/281456719_Metodos_para_tratar_la_cicatrizacion_hipertrofica_y_los_queloides_en_el_paciente_quemado
+- אללנדה, א. Innovador dispositivo médico israelí cura las quemaduras sin tocar al paciente. Obtenido de https://israelnoticias.com/salud/dispositivo-medico-israeli-quemaduras/
+
+
 
 
 
