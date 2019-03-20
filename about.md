@@ -141,14 +141,20 @@ https://extranet.who.int/sree/Reports?op=vs&path=%2FWHO_HQ_Reports/G38/PROD/EXT/
 
 Este fue el caso específico del paciente que vamos tratar en esta investigación, un albañil soltero de 30 años que tuvo un accidente con electricidad de alto voltaje, el cual le ocasionó quemaduras en múltiples regiones corporales. De acuerdo a la evaluación clínica, en la cual se toman en cuenta la SCT (Superficie corporal total) quemada mediante la regla de Wallace o también llamada regla de los 9 y la escala de Daniels (Ver figura xx) para considerar la fuerza muscular (IV), el paciente obtuvo los siguientes valores:
 
+<p><strong>Float the image to the left:</strong></p>
+<p>
+<img src="http://i66.tinypic.com/2s6ldzc.png" alt="Smiley face" style="float:left;width:450px;height:450px;">
 De acuerdo a la escala de Daniels (ver figura)
 Manos: derecha 2+ , izquierda 3+ , sensibilidad y propiocepción sin alteraciones. 
 Codo izquierdo: extensión limitada por dolor, 90 grados
 Pie derecho: Fuerza 1+, ligeramente péndulo o caído
+.  
+</p>
+
 
 De acuerdo a la regla de Wallace, el paciente tiene 6.5% SCT quemada distribuida de siguiente manera : quemaduras de espesor total y parcial en dorso de manos y 2das falanges (2% SCT) , quemadura de espesor total , con acartonamiento de piel (escara) en codo izquierdo y antebrazo (0.5% SCT) , quemadura de espesor total en región posterior de pierna derecha (3%) y dorso proximal de pie derecho con quemaduras de III y IV grado (1% SCT). Además quemaduras de II y III grado en rostro (1% SCT) 
 
 Aparte se le aplicó el examen clínico de pinzado rodado para determinar el estado de percepción táctil anormal y dolor en las áreas afectadas (Disestesias y alodíneas respectivamente), que fueron positivos.
 
-Se le realizaron exámenes de bioanálisis complementarios (serológicos y bioquímicos) cuyos valores fueron normales, sin embargo, el paciente presentó una luxo fractura en varios huesos del pie que se trataron con alineación y fijación de fractura aparte de la fisioterapia correspondiente para mejorar esta articulación.
+Se le realizaron exámenes de bioanálisis complementarios (serológicos y bioquímicos) cuyos valores fueron normales, sin embargo, el paciente presentó una luxo fractura en varios huesos del pie que se trataron con alineación y fijación de fractura aparte de la fisioterapia correspondiente para mejorar esta área.
 
