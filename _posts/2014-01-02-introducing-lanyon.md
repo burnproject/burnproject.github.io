@@ -7,7 +7,11 @@ Somos un grupo de estudiantes de la especialidad de Ingeniería Biomédica de la
 
 Como parte del curso Fundamentos de Biodiseño, estamos encargados de diseñar y prototipar un dispositivo que permita la íntegra recuperación de pacientes que han sufrido de quemaduras de segundo y tercer grado a nivel facial.
 
-<b> Equipo </b>
+<style>
+p {text-align:center;}
+  <p><b> Equipo </b></p>
+</style>
+
 
 El equipo de trabajo está conformado por:
 
