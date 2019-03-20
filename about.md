@@ -65,6 +65,13 @@ Otro beneficio es combatir el dolor, el prurito y el edema. La compresión en la
 
 Actualmente se desconocen publicaciones sobre el abordaje con presoterapia en quemaduras faciales en pacientes pediátricos durante la etapa aguda del tratamiento ni post-autoinjerto inmediato.En aquellas quemaduras que por su profundidad hayan requerido autoinjerto, la utilización de la presoterapia post-autoinjerto inmediato, se utiliza para dar protección mecánica al injerto y favorecer su integración, ya que evita cualquier tipo de cizallamiento.
 
+<Tratamientos actuales en contra de las quemaduras>
+   <img src="http://i68.tinypic.com/28mcqhy.png" alt="Italian Trulli">
+<img src="http://i68.tinypic.com/se3kgn.jpg" alt="Italian Trulli>
+<img src="http://i65.tinypic.com/2q340ok.png" alt="Italian Trulli>
+  <img src="http://i65.tinypic.com/ofdpgl.jpg" alt="Italian Trulli>
+                                                     
+                                                     
 <html>
 <head>
 <style>
@@ -128,7 +135,6 @@ tr:nth-child(even) {
 </body>
 </html>
 Fuente: Registro Global de Quemaduras (OMS)
-https://extranet.who.int/sree/Reports?op=vs&path=%2FWHO_HQ_Reports/G38/PROD/EXT/GBR&VSPARAM_varLanguage=es
 
 En contraparte a las quemaduras ocurridas en el ámbito doméstico, que parecen ser la principal causa de quemaduras a nivel Perú y donde son más propensos los niños(Ver Figura 3) , existen varias que se originan por factores relacionados al trabajo (incendios, productos químicos, electricidad, etc) en dónde son más vulnerables los hombres (OMS). 
  <img src="http://i68.tinypic.com/qoeumw.png" alt="Italian Trulli">
@@ -166,14 +172,11 @@ Se le realizaron exámenes de bioanálisis complementarios (serológicos y bioqu
 - Universidad Complutense de Madrid. (7 de febrero de 2014). Tratamiento de las Quemaduras. Obtenido de https://www.ucm.es/data/cont/docs/420-2014-02-07-TRATAMIENTO-QUEMADURAS-15-Dic-2013.pdf
 - World Health Organization. (6 de marzo de 2018). Quemaduras. Obtenido de https://www.who.int/es/news-room/fact-sheets/detail/burns
 - World Health Organization. (s.f.). Violence and Injury Prevention. Obtenido de Burns: https://www.who.int/violence_injury_prevention/other_injury/burns/en/
+-World Health Organization. (Revisado el 17 de marzo de 2019). Registro Global de Quemaduras. Obtenido de https://extranet.who.int/sree/Reports?op=vs&path=%2FWHO_HQ_Reports/G38/PROD/EXT/GBR&VSPARAM_varLanguage=es
 - Zapata-Sirvent, R. L. (noviembre de 2005). Métodos para tratar la cicatrización hipertrófica y los queloides en el paciente quemado. Obtenido de https://www.researchgate.net/publication/281456719_Metodos_para_tratar_la_cicatrizacion_hipertrofica_y_los_queloides_en_el_paciente_quemado
 - אללנדה, א. Innovador dispositivo médico israelí cura las quemaduras sin tocar al paciente. Obtenido de https://israelnoticias.com/salud/dispositivo-medico-israeli-quemaduras/
 
 
 
-
-
-Fuente: Registro Global de Quemaduras (OMS)
-https://extranet.who.int/sree/Reports?op=vs&path=%2FWHO_HQ_Reports/G38/PROD/EXT/GBR&VSPARAM_varLanguage=es
 
 
