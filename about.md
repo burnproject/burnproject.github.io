@@ -3,7 +3,7 @@ layout: page
 title: Documentación
 ---
 <p>
- <p style="text-align:center;"><b>SEMANA 1 </b></p>
+ <p style="text-align:center;"><b>SEMANA 1 </b></p></p>
 
  <b>Problemática</b>
  
