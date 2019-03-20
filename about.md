@@ -141,13 +141,15 @@ De acuerdo a la escala de Daniels (Ver figura 4):
 Manos: derecha 2+ , izquierda 3+ , sensibilidad y propiocepción sin alteraciones. 
 Codo izquierdo: extensión limitada por dolor, 90 grados.
 Pie derecho: Fuerza 1+, ligeramente péndulo o caído.
+
 <img src="http://i66.tinypic.com/530okx.png" alt="Italian Trulli">
+
 De acuerdo a la regla de Wallace,el paciente tiene 7.5% SCT quemada distribuida de siguiente manera: quemaduras de espesor total y parcial en dorso de manos y 2das falanges (2% SCT) , quemadura de espesor total , con acartonamiento de piel (escara) en codo izquierdo y antebrazo (0.5% SCT) , quemadura de espesor total en región posterior de pierna derecha (3%) y dorso proximal de pie derecho con quemaduras de III y IV grado (1% SCT). Además quemaduras de II y III grado en rostro (1% SCT). Sus funciones biológicas y vitales no parecen tener complicaciones.
 
 Aparte se le aplicó el examen clínico de pinzado rodado para determinar el estado de percepción táctil anormal y dolor en las áreas afectadas (Disestesias y alodíneas respectivamente), los cuales fueron positivos.
 
 Se le realizaron exámenes de bioanálisis complementarios (serológicos y bioquímicos) cuyos valores fueron normales, sin embargo, el paciente presentó una luxo fractura en varios huesos del pie que se trataron con alineación y fijación de fractura aparte de la fisioterapia correspondiente para mejorar esta articulación.
-<br><p>
+
   
 <b>Referencias</b>
 
