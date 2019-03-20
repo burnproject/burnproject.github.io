@@ -10,7 +10,7 @@ Como parte del curso Fundamentos de Biodiseño, estamos encargados de diseñar y
 <style>
   <body>
 p {text-align:center;}
-  <p><b> Equipo </b></p>
+ <b> <p> Equipo </p></b>
     </body>
 </style>
 </html>
