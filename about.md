@@ -22,17 +22,6 @@ Las quemaduras constituyen importante problema de salud pública, se consideran 
 <b>¿Qué son las quemaduras? </b>
 Una quemadura es una lesión a la piel u otro tejido orgánico causada principalmente por el calor o la radiación, la radioactividad, la electricidad, la fricción o el contacto con productos químicos.
  
- <html>
-<body>
-  <p>
-    
-    <img src="http://i64.tinypic.com/ta30h0.png" alt="Italian Trulli">
-En la siguiente figura podemos observar las diferentes causas frecuentes de quemaduras según Aproquen.
-</p>
-</body>
-</html>
- 
- 
 <strong>Impacto de las quemaduras a nivel socioeconómico</strong>
 El riesgo de sufrir quemaduras esta intimamente relacionado con la posición socio-economica. Esto se ve evidenciado no solo en Latinoámerica sino a nivel mundial (Organización Mundial de la Salud)
 
@@ -122,6 +111,8 @@ tr:nth-child(even) {
 Fuente: Registro Global de Quemaduras (OMS)
 https://extranet.who.int/sree/Reports?op=vs&path=%2FWHO_HQ_Reports/G38/PROD/EXT/GBR&VSPARAM_varLanguage=es
 
+ <img src="http://i64.tinypic.com/ta30h0.png" alt="Italian Trulli">
+ 
 En contraparte a las quemaduras ocurridas en el ámbito doméstico, que parecen ser la principal causa de quemaduras a nivel Perú y donde son más propensos los niños(Ver Figura 3) , existen varias que se originan por factores relacionados al trabajo (incendios, productos químicos, electricidad, etc) en dónde son más vulnerables los hombres (OMS). 
 
 Este fue el caso específico del paciente que vamos tratar en esta investigación, un albañil soltero de 30 años que tuvo un accidente con electricidad de alto voltaje, el cual le ocasionó quemaduras en múltiples regiones corporales. De acuerdo a la evaluación clínica, en la cual se toman en cuenta la SCT (Superficie corporal total) quemada mediante la regla de Wallace o también llamada regla de los 9 y la escala de Daniels (Ver figura 4) para considerar la fuerza muscular. 
