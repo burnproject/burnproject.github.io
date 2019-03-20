@@ -2,6 +2,8 @@
 layout: page
 title: Documentación
 ---
+
+
  <strong>SEMANA 1 </strong>
 
  <strong>Problemática</strong>
