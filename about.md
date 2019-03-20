@@ -111,12 +111,9 @@ tr:nth-child(even) {
 Fuente: Registro Global de Quemaduras (OMS)
 https://extranet.who.int/sree/Reports?op=vs&path=%2FWHO_HQ_Reports/G38/PROD/EXT/GBR&VSPARAM_varLanguage=es
 
-
 En contraparte a las quemaduras ocurridas en el ámbito doméstico, que parecen ser la principal causa de quemaduras a nivel Perú y donde son más propensos los niños(Ver Figura 3) , existen varias que se originan por factores relacionados al trabajo (incendios, productos químicos, electricidad, etc) en dónde son más vulnerables los hombres (OMS). 
 
  <img src="http://i64.tinypic.com/ta30h0.png" alt="Italian Trulli">
- 
- 
 Este fue el caso específico del paciente que vamos tratar en esta investigación, un albañil soltero de 30 años que tuvo un accidente con electricidad de alto voltaje, el cual le ocasionó quemaduras en múltiples regiones corporales. De acuerdo a la evaluación clínica, en la cual se toman en cuenta la SCT (Superficie corporal total) quemada mediante la regla de Wallace o también llamada regla de los 9 y la escala de Daniels (Ver figura 4) para considerar la fuerza muscular. 
 
 De acuerdo a la escala de Daniels (ver figura), los valores del paciente fueron los siguientes:
