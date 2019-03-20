@@ -55,9 +55,6 @@ Las quemaduras de tercer grado destruyen la epidermis y dermis y pueden dañar e
 
 - Quemaduras de cuarto grado. Las quemaduras de cuarto grado también dañan los huesos, músculos y tendones subyacentes. No hay sensación en el área, ya que las terminales nerviosas han sido destruidas.
 
-
-En contraparte a las quemaduras ocurridas en el ámbito doméstico, que parecen ser la principal causa de quemaduras a nivel Perú y donde son más propensos los niños(GBR) , existen varias que se originan por factores relacionados al trabajo (incendios, productos químicos, electricidad, etc) en dónde son más vulnerables los hombres (XX). 
-
 <style>
 table {
   font-family: calibri, sans-serif;
@@ -75,7 +72,6 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
 </style>
-</head>
 <body>
 <h2>Pacientes registrados en el Registro Global de Quemaduras en Perú</h2>
 <table>
@@ -115,14 +111,13 @@ tr:nth-child(even) {
     <td>100</td>
   </tr>
 </table>
-
-
+</style>
 Fuente: Registro Global de Quemaduras (OMS)
 https://extranet.who.int/sree/Reports?op=vs&path=%2FWHO_HQ_Reports/G38/PROD/EXT/GBR&VSPARAM_varLanguage=es
 
-Este fue el caso específico del paciente que vamos tratar en esta investigación, un albañil soltero de 30 años que tuvo un accidente con electricidad de alto voltaje, el cual le ocasionó quemaduras en múltiples regiones corporales. De acuerdo a la evaluación clínica, en la cual se toman en cuenta la SCT (Superficie corporal total) quemada mediante la regla de Wallace o también llamada regla de los 9 y la escala de Daniels (Ver figura xx)   para considerar la fuerza muscular (IV).
+En contraparte a las quemaduras ocurridas en el ámbito doméstico, que parecen ser la principal causa de quemaduras a nivel Perú y donde son más propensos los niños(GBR) , existen varias que se originan por factores relacionados al trabajo (incendios, productos químicos, electricidad, etc) en dónde son más vulnerables los hombres (XX). 
 
-
+Este fue el caso específico del paciente que vamos tratar en esta investigación, un albañil soltero de 30 años que tuvo un accidente con electricidad de alto voltaje, el cual le ocasionó quemaduras en múltiples regiones corporales. De acuerdo a la evaluación clínica, en la cual se toman en cuenta la SCT (Superficie corporal total) quemada mediante la regla de Wallace o también llamada regla de los 9 y la escala de Daniels (Ver figura xx) para considerar la fuerza muscular (IV). 
 
 
 De acuerdo a la escala de Daniels (ver figura), los valores del paciente fueron los siguientes:
