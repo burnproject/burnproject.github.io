@@ -66,7 +66,7 @@ tr:nth-child(even) {
 </style>
 </head>
 <body>
-<h2>Figura 3. Pacientes registrados en el Registro Global de Quemaduras en Perú</h2>
+<h2>Tabla 1. Pacientes registrados en el Registro Global de Quemaduras en Perú</h2>
 <table>
   <tr>
     <th>Causa</th>
@@ -126,6 +126,18 @@ El paciente tiene 7.5% SCT quemada distribuida de siguiente manera: quemaduras d
 Aparte se le aplicó el examen clínico de pinzado rodado para determinar el estado de percepción táctil anormal y dolor en las áreas afectadas (Disestesias y alodíneas respectivamente), los cuales fueron positivos.
 
 Se le realizaron exámenes de bioanálisis complementarios (serológicos y bioquímicos) cuyos valores fueron normales, sin embargo, el paciente presentó una luxo fractura en varios huesos del pie que se trataron con alineación y fijación de fractura aparte de la fisioterapia correspondiente para mejorar esta articulación.
+
+<b>Referencias</b>
+- Aproquen. (26 de diciembre de 2013). Causas frecuentes de las quemaduras. Obtenido de https://www.elnuevodiario.com.ni/infografia/1303/
+- Arredondo, E. C. (2016). Experiencias de adolescentes con secuelas de quemaduras severas atendidos en el Instituto Nacional de Salud del Niño. Revista Brasileira de Queimaduras 2016, 15(1). Obtenido de http://www.rbqueimaduras.com.br/how-to-cite/289/pt-BR
+- El Comercio Perú. (30 de julio de 2018). Inician campaña gratuita de atención médica a niños quemados en Huánuco. El Comercio. Obtenido de https://elcomercio.pe/peru/huanuco/inician-campana-gratuita-atencion-medica-ninos-quemados-huanuco-noticia-541564
+- Hospital General de Culiacán. (s.f.). Hospital General de Culiacán. Obtenido de http://www.hgculiacan.com/bilblioteca%20medica/quemaduras/capitulo1.htm
+- Pontificia Universidad Católica de Chile. (s.f.). El cuidado del niño quemado. Obtenido de Impacto Social: http://www7.uc.cl/sw_educ/ninoquemado/html/frames/fr_impacto4.html
+- Stanford Children's Health. (s.f.). Stanford Children's Health. Obtenido de Clasificación de las quemaduras: https://www.stanfordchildrens.org/es/topic/default?id=clasificacindelasquemaduras-90-P09576
+- World Health Organization. (6 de marzo de 2018). Quemaduras. Obtenido de https://www.who.int/es/news-room/fact-sheets/detail/burns
+- World Health Organization. (s.f.). Violence and Injury Prevention. Obtenido de Burns: https://www.who.int/violence_injury_prevention/other_injury/burns/en/
+
+
 
 Fuente: Registro Global de Quemaduras (OMS)
 https://extranet.who.int/sree/Reports?op=vs&path=%2FWHO_HQ_Reports/G38/PROD/EXT/GBR&VSPARAM_varLanguage=es
