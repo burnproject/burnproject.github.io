@@ -25,7 +25,7 @@ Una quemadura es una lesión a la piel u otro tejido orgánico causada principal
  <html>
 <body>
   <p>
-<img src="http://i67.tinypic.com/n3t6gy.png" alt="Smiley face" style="float:right;width:450px;height:450px;">
+<img src="http://i64.tinypic.com/ta30h0.png" alt="Smiley face" style="float:right;width:450px;height:450px;">
 En la siguiente figura podemos observar las diferentes causas frecuentes de quemaduras según Aproquen.
 </p>
 </body>
