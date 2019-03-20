@@ -151,7 +151,9 @@ Aparte se le aplicó el examen clínico de pinzado rodado para determinar el est
 
 Se le realizaron exámenes de bioanálisis complementarios (serológicos y bioquímicos) cuyos valores fueron normales, sin embargo, el paciente presentó una luxo fractura en varios huesos del pie que se trataron con alineación y fijación de fractura aparte de la fisioterapia correspondiente para mejorar esta articulación.
 <br><p>
+  
 <b>Referencias</b>
+
 - Álvaro Cuadra, C. D. (2010). Quemaduras faciales: “manejo inicial y tratamiento”. Revista Médica Clínica Las Condes, 11, 41-45. Obtenido de https://www.sciencedirect.com/science/article/pii/S0716864010705046
 - Aproquen. (26 de diciembre de 2013). Causas frecuentes de las quemaduras. Obtenido de https://www.elnuevodiario.com.ni/infografia/1303/
 - Arredondo, E. C. (2016). Experiencias de adolescentes con secuelas de quemaduras severas atendidos en el Instituto Nacional de Salud del Niño. Revista Brasileira de Queimaduras 2016, 15(1). Obtenido de http://www.rbqueimaduras.com.br/how-to-cite/289/pt-BR
