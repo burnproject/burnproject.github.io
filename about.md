@@ -22,6 +22,16 @@ Las quemaduras constituyen importante problema de salud pública, se consideran 
 <b>¿Qué son las quemaduras? </b>
 Una quemadura es una lesión a la piel u otro tejido orgánico causada principalmente por el calor o la radiación, la radioactividad, la electricidad, la fricción o el contacto con productos químicos.
  
+ <html>
+<body>
+  <p>
+<img src="http://i67.tinypic.com/n3t6gy.png" alt="Smiley face" style="float:right;width:450px;height:450px;">
+En la siguiente figura podemos observar las diferentes causas frecuentes de quemaduras según Aproquen.
+</p>
+</body>
+</html>
+ 
+ 
 <strong>Impacto de las quemaduras a nivel socioeconómico</strong>
 El riesgo de sufrir quemaduras esta intimamente relacionado con la posición socio-economica. Esto se ve evidenciado no solo en Latinoámerica sino a nivel mundial (Organización Mundial de la Salud)
 
@@ -46,13 +56,99 @@ Las quemaduras de tercer grado destruyen la epidermis y dermis y pueden dañar e
 - Quemaduras de cuarto grado. Las quemaduras de cuarto grado también dañan los huesos, músculos y tendones subyacentes. No hay sensación en el área, ya que las terminales nerviosas han sido destruidas.
 
 
-<html>
-<body>
-  <p>
-<img src="http://i67.tinypic.com/n3t6gy.png" alt="Smiley face" style="float:right;width:450px;height:450px;">
-En la siguiente figura podemos observar las diferentes causas de quemaduras
-</p>
+En contraparte a las quemaduras ocurridas en el ámbito doméstico, que parecen ser la principal causa de quemaduras a nivel Perú y donde son más propensos los niños(GBR) , existen varias que se originan por factores relacionados al trabajo (incendios, productos químicos, electricidad, etc) en dónde son más vulnerables los hombres (XX). 
 
-</body>
-</html>
+<style>
+table {
+  font-family: calibri, sans-serif;
+  border-collapse: collapse;
+  width: 80%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 6px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+<h2>Pacientes registrados en el Registro Global de Quemaduras en Perú</h2>
+<table>
+  <tr>
+    <th>Causa</th>
+    <th># de Registros</th>
+    <th>%</th>
+  </tr>
+  <tr>
+    <td>Líquidos calientes, vapor o gas</td>
+    <td>349</td>
+    <td>78.25</td>
+  </tr>
+  <tr>
+    <td>Llama</td>
+    <td>64</td>
+    <td>14.35</td>
+  </tr>
+  <tr>
+    <td>Superficie Caliente</td>
+    <td>18</td>
+    <td>4.04</td>
+  </tr>
+  <tr>
+    <td>Electricidad</td>
+    <td>8</td>
+    <td>1.79</td>
+  </tr>
+  <tr>
+    <td>Otro</td>
+    <td>7</td>
+    <td>1.57</td>
+  </tr>
+  <tr>
+    <td>Total</td>
+    <td>446</td>
+    <td>100</td>
+  </tr>
+</table>
+
+
+Fuente: Registro Global de Quemaduras (OMS)
+https://extranet.who.int/sree/Reports?op=vs&path=%2FWHO_HQ_Reports/G38/PROD/EXT/GBR&VSPARAM_varLanguage=es
+
+Este fue el caso específico del paciente que vamos tratar en esta investigación, un albañil soltero de 30 años que tuvo un accidente con electricidad de alto voltaje, el cual le ocasionó quemaduras en múltiples regiones corporales. De acuerdo a la evaluación clínica, en la cual se toman en cuenta la SCT (Superficie corporal total) quemada mediante la regla de Wallace o también llamada regla de los 9 y la escala de Daniels (Ver figura xx)   para considerar la fuerza muscular (IV).
+
+
+
+
+De acuerdo a la escala de Daniels (ver figura), los valores del paciente fueron los siguientes:
+Manos: derecha 2+ , izquierda 3+ , sensibilidad y propiocepción sin alteraciones. 
+Codo izquierdo: extensión limitada por dolor, 90 grados
+Pie derecho: Fuerza 1+, ligeramente péndulo o caído
+
+El paciente, cuyas funciones biológicas y vitales no parecen tener complicaciones, tiene 6.5% SCT quemada distribuida de siguiente manera : quemaduras de espesor total y parcial en dorso de manos y 2das falanges (2% SCT) , quemadura de espesor total , con acartonamiento de piel (escara) en codo izquierdo y antebrazo (0.5% SCT) , quemadura de espesor total en región posterior de pierna derecha (3%) y dorso proximal de pie derecho con quemaduras de III y IV grado (1% SCT). Además quemaduras de II y III grado en rostro (1% SCT) 
+
+Aparte se le aplicó el examen clínico de pinzado rodado para determinar el estado de percepción táctil anormal y dolor en las áreas afectadas (Disestesias y alodíneas respectivamente), que fueron positivos.
+
+Se le realizaron exámenes de bioanálisis complementarios (serológicos y bioquímicos) cuyos valores fueron normales, sin embargo, el paciente presentó una luxo fractura en varios huesos del pie que se trataron con alineación y fijación de fractura aparte de la fisioterapia correspondiente para mejorar esta articulación.
+
+Fuente: Registro Global de Quemaduras (OMS)
+https://extranet.who.int/sree/Reports?op=vs&path=%2FWHO_HQ_Reports/G38/PROD/EXT/GBR&VSPARAM_varLanguage=es
+
+Este fue el caso específico del paciente que vamos tratar en esta investigación, un albañil soltero de 30 años que tuvo un accidente con electricidad de alto voltaje, el cual le ocasionó quemaduras en múltiples regiones corporales. De acuerdo a la evaluación clínica, en la cual se toman en cuenta la SCT (Superficie corporal total) quemada mediante la regla de Wallace o también llamada regla de los 9 y la escala de Daniels (Ver figura xx) para considerar la fuerza muscular (IV), el paciente obtuvo los siguientes valores:
+
+De acuerdo a la escala de Daniels (ver figura)
+Manos: derecha 2+ , izquierda 3+ , sensibilidad y propiocepción sin alteraciones. 
+Codo izquierdo: extensión limitada por dolor, 90 grados
+Pie derecho: Fuerza 1+, ligeramente péndulo o caído
+
+De acuerdo a la regla de Wallace, el paciente tiene 6.5% SCT quemada distribuida de siguiente manera : quemaduras de espesor total y parcial en dorso de manos y 2das falanges (2% SCT) , quemadura de espesor total , con acartonamiento de piel (escara) en codo izquierdo y antebrazo (0.5% SCT) , quemadura de espesor total en región posterior de pierna derecha (3%) y dorso proximal de pie derecho con quemaduras de III y IV grado (1% SCT). Además quemaduras de II y III grado en rostro (1% SCT) 
+
+Aparte se le aplicó el examen clínico de pinzado rodado para determinar el estado de percepción táctil anormal y dolor en las áreas afectadas (Disestesias y alodíneas respectivamente), que fueron positivos.
+
+Se le realizaron exámenes de bioanálisis complementarios (serológicos y bioquímicos) cuyos valores fueron normales, sin embargo, el paciente presentó una luxo fractura en varios huesos del pie que se trataron con alineación y fijación de fractura aparte de la fisioterapia correspondiente para mejorar esta articulación.
 
