@@ -21,7 +21,7 @@ Las quemaduras constituyen importante problema de salud pública, se consideran 
 
 <strong>¿Qué son las quemaduras? </strong>
 Una quemadura es una lesión a la piel u otro tejido orgánico causada principalmente por el calor o la radiación, la radioactividad, la electricidad, la fricción o el contacto con productos químicos.
-
+ 
 <strong>Immpacto social</strong>
 Los pacientes atendidos provienen en su mayoría de familias calificadas en sus consultorios de origen como indigentes. Por lo tanto su acceso a la atención de salud está limitada a los recursos existentes en su barrio o localidad que no siempre disponen de la atención especializada e integrada dirigida exclusivamente al niño quemado. (Pontificia Universidad Católica de Chile)
 
