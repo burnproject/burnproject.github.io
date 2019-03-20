@@ -46,6 +46,22 @@ Las quemaduras severas causan discapacidad física, psicológica, social y labor
 <strong>Impacto psicológico</strong>
 La sociedad actual ve la apariencia física como instrumento básico para alcanzar el éxito social y laboral, y, es reforzado por los medios de comunicación. Sin embargo, muchas veces se confunde imagen corporal con apariencia física, la imagen corporal involucra el sentimiento que cada persona tiene en relación a su propio cuerpo, cualquier alteración en la imagen influye en la autoestima, trayendo como consecuencia un gran impacto psicológico y emocional colocando a la persona en situación de crisis con una alta vulnerabilidad psicológica. (Arredondo, 2016)
 
+Frente a un paciente con quemadura facial será muy importante determinar el contexto en que ocurrió la quemadura, tomando en cuenta en la historia clínica, el sitio del accidente y el agente causal, ya que pueden haber lesiones asociadas que comprometan la vida o que dejen secuelas luego de la reanimación al no ser sospechadas. Las quemaduras se clasifican en 4 grados dependiendo la profundidad y la severidad con que se penetró la superficie de la piel.
+
+- Quemaduras de primer grado (superficiales) 
+Las quemaduras de primer grado afectan únicamente la epidermis, o capa externa de la piel. El sitio de la quemadura es rojo, doloroso, seco y sin ampollas. Las quemaduras leves del sol son un ejemplo. Es raro el daño de largo plazo al tejido y generalmente consiste de un aumento o disminución del color de la piel.
+
+- Quemaduras de segundo grado (espesor parcial) 
+Las quemaduras de segundo grado involucran la epidermis y parte de la capa de la dermis de la piel. El sitio de la quemadura se ve rojo, con ampollas y puede estar inflamado y ser doloroso. 
+
+- Quemaduras de tercer grado (espesor total) 
+Las quemaduras de tercer grado destruyen la epidermis y dermis y pueden dañar el tejido subcutáneo. La quemadura puede verse blanca o carbonizada
+
+- Quemaduras de cuarto grado. Las quemaduras de cuarto grado también dañan los huesos, músculos y tendones subyacentes. No hay sensación en el área, ya que las terminales nerviosas han sido destruidas.
+
+
+
+
 
 <html>
 <body>
