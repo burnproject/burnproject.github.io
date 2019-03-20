@@ -48,10 +48,10 @@ Las quemaduras de tercer grado destruyen la epidermis y dermis y pueden dañar e
 
 <html>
 <body>
-  <img src="http://i67.tinypic.com/n3t6gy.png" alt="Smiley face" style="float:right;width:450px;height:450px;">
-<p style="text-align:center;"><img src="http://i67.tinypic.com/n3t6gy.png" alt="Trulli" width="450" height="450"></p></p>
-  
-
+  <p>
+<img src="http://i67.tinypic.com/n3t6gy.png" alt="Smiley face" style="float:right;width:450px;height:450px;">
+En la siguiente figura podemos observar las diferentes causas de quemaduras
+</p>
 
 </body>
 </html>
