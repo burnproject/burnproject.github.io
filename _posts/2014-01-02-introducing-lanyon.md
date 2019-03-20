@@ -4,8 +4,8 @@ title: Nosotros
 ---
 <html>
 <body>
-<p style="text-align:center;">Somos un grupo de estudiantes de la especialidad de Ingeniería Biomédica de las universidades Pontificia Universidad Católica del Perú y Universidad Cayetano Heredia con gran interés en brindar soluciones en las diversas problemáticas en salud que se presentan a nivel local y mundial.
-<br>
+<p style="text-align:right;">Somos un grupo de estudiantes de la especialidad de Ingeniería Biomédica de las universidades Pontificia Universidad Católica del Perú y Universidad Cayetano Heredia con gran interés en brindar soluciones en las diversas problemáticas en salud que se presentan a nivel local y mundial.
+<br><p>
 Como parte del curso Fundamentos de Biodiseño, estamos encargados de diseñar y prototipar un dispositivo que permita la íntegra recuperación de pacientes que han sufrido de quemaduras de segundo y tercer grado a nivel facial.
 </p>
 
@@ -13,7 +13,7 @@ Como parte del curso Fundamentos de Biodiseño, estamos encargados de diseñar y
 <p style="text-align:center;">
   
 El equipo de trabajo está conformado por:
-<br>
+<br><p>
 - Coordinador General - Jorge Leiva<br>
 - Coordinadora Técnica - Angie Benites<br>
 - Coordinador de Información - Manuel Yampufé<br>
