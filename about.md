@@ -2,11 +2,9 @@
 layout: page
 title: Documentación
 ---
+ <p style="text-align:center;"><b>SEMANA 1 </b></p>
 
-
- <strong>SEMANA 1 </strong>
-
- <strong>Problemática</strong>
+ <b>Problemática</b>
  
  
 <cite> "Globalmente, las quemaduras son un serio problema de salud pública. Un estimado de 265000 muertes ocurren cada año sólo por fuegos, con más muertes en líquidos calientes, quemaduras eléctricas y otras formas de quemaduras cuyas estatisticas mundiales no estan disponibles." </cite> -Organización Mundial de la Salud.
