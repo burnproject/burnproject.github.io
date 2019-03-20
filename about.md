@@ -25,7 +25,8 @@ Una quemadura es una lesión a la piel u otro tejido orgánico causada principal
  <html>
 <body>
   <p>
-<img src="http://i64.tinypic.com/ta30h0.png" alt="Smiley face" style="float:right;width:450px;height:450px;">
+    
+    <img src="http://i64.tinypic.com/ta30h0.png" alt="Italian Trulli">
 En la siguiente figura podemos observar las diferentes causas frecuentes de quemaduras según Aproquen.
 </p>
 </body>
@@ -146,11 +147,9 @@ Este fue el caso específico del paciente que vamos tratar en esta investigació
 <img src="http://i66.tinypic.com/2s6ldzc.png" alt="Smiley face" style="float:left;width:450px;height:450px;">
 De acuerdo a la escala de Daniels (ver figura)
 Manos: derecha 2+ , izquierda 3+ , sensibilidad y propiocepción sin alteraciones. 
-Codo izquierdo: extensión limitada por dolor, 90 grados
-Pie derecho: Fuerza 1+, ligeramente péndulo o caído
-.  
+Codo izquierdo: extensión limitada por dolor, 90 grados.
+Pie derecho: Fuerza 1+, ligeramente péndulo o caído.
 </p>
-
 
 De acuerdo a la regla de Wallace, el paciente tiene 6.5% SCT quemada distribuida de siguiente manera : quemaduras de espesor total y parcial en dorso de manos y 2das falanges (2% SCT) , quemadura de espesor total , con acartonamiento de piel (escara) en codo izquierdo y antebrazo (0.5% SCT) , quemadura de espesor total en región posterior de pierna derecha (3%) y dorso proximal de pie derecho con quemaduras de III y IV grado (1% SCT). Además quemaduras de II y III grado en rostro (1% SCT) 
 
