@@ -10,13 +10,12 @@ title: Nosotros
 
 <b> Equipo </b>
 <p style="text-align:center;">
-  
-El equipo de trabajo está conformado por:
-<br><p>
-- Coordinador General - Jorge Leiva<br>
-- Coordinadora Técnica - Angie Benites<br>
-- Coordinador de Información - Manuel Yampufé<br>
-- Coordinador Editorial - Héctor Alegría</p>
+El equipo de trabajo está conformado por:</p>
+  <p style="text-align:center;"> 
+  Coordinador General - Jorge Leiva<br>
+  Coordinadora Técnica - Angie Benites<br>
+  Coordinador de Información - Manuel Yampufé<br>
+  Coordinador Editorial - Héctor Alegría</p>
 
 
 </body>
