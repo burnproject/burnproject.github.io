@@ -52,7 +52,7 @@ Las quemaduras de tercer grado destruyen la epidermis y dermis y pueden dañar e
 <body>
 
 <h2>HTML Image</h2>
-<img src="https://howzak.com/wp-content/uploads/2019/03/Burns.jpg" alt="Trulli" width="500" height="333">
+<img src="http://prntscr.com/n09k97" alt="Trulli" width="500" height="333">
 
 </body>
 </html>
