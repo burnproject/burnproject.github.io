@@ -107,7 +107,6 @@ tr:nth-child(even) {
 
 </body>
 </html>
-cuyas funciones biológicas y vitales no parecen tener complicaciones,
 Fuente: Registro Global de Quemaduras (OMS)
 https://extranet.who.int/sree/Reports?op=vs&path=%2FWHO_HQ_Reports/G38/PROD/EXT/GBR&VSPARAM_varLanguage=es
 
@@ -120,8 +119,7 @@ Manos: derecha 2+ , izquierda 3+ , sensibilidad y propiocepción sin alteracione
 Codo izquierdo: extensión limitada por dolor, 90 grados.
 Pie derecho: Fuerza 1+, ligeramente péndulo o caído.
 <img src="http://i66.tinypic.com/530okx.png" alt="Italian Trulli">
-De acuerdo a la regla de Wallace:
-El paciente tiene 7.5% SCT quemada distribuida de siguiente manera: quemaduras de espesor total y parcial en dorso de manos y 2das falanges (2% SCT) , quemadura de espesor total , con acartonamiento de piel (escara) en codo izquierdo y antebrazo (0.5% SCT) , quemadura de espesor total en región posterior de pierna derecha (3%) y dorso proximal de pie derecho con quemaduras de III y IV grado (1% SCT). Además quemaduras de II y III grado en rostro (1% SCT).
+De acuerdo a la regla de Wallace,el paciente tiene 7.5% SCT quemada distribuida de siguiente manera: quemaduras de espesor total y parcial en dorso de manos y 2das falanges (2% SCT) , quemadura de espesor total , con acartonamiento de piel (escara) en codo izquierdo y antebrazo (0.5% SCT) , quemadura de espesor total en región posterior de pierna derecha (3%) y dorso proximal de pie derecho con quemaduras de III y IV grado (1% SCT). Además quemaduras de II y III grado en rostro (1% SCT). Sus funciones biológicas y vitales no parecen tener complicaciones.
 
 Aparte se le aplicó el examen clínico de pinzado rodado para determinar el estado de percepción táctil anormal y dolor en las áreas afectadas (Disestesias y alodíneas respectivamente), los cuales fueron positivos.
 
