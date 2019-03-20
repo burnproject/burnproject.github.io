@@ -5,7 +5,6 @@ title: Nosotros
 <html>
 <body>
 <p style="text-align:center;">Somos un grupo de estudiantes de la especialidad de Ingeniería Biomédica de las universidades Pontificia Universidad Católica del Perú y Universidad Cayetano Heredia con gran interés en brindar soluciones en las diversas problemáticas en salud que se presentan a nivel local y mundial.</p>
-<br><p>
 <p style="text-align:center;">Como parte del curso Fundamentos de Biodiseño, estamos encargados de diseñar y prototipar un dispositivo que permita la íntegra recuperación de pacientes que han sufrido de quemaduras de segundo y tercer grado a nivel facial.
 </p>
 
