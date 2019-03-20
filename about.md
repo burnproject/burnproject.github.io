@@ -67,9 +67,6 @@ Actualmente se desconocen publicaciones sobre el abordaje con presoterapia en qu
 
 <Tratamientos actuales en contra de las quemaduras>
    <img src="http://i68.tinypic.com/28mcqhy.png" alt="Italian Trulli">
-<img src="http://i68.tinypic.com/se3kgn.jpg" alt="Italian Trulli>                                            
-<img src="http://i65.tinypic.com/2q340ok.png" alt="Italian Trulli>                                            
-  <img src="http://i65.tinypic.com/ofdpgl.jpg" alt="Italian Trulli>
                                                      
                                                      
 <html>
