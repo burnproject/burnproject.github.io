@@ -45,6 +45,18 @@ Las quemaduras de tercer grado destruyen la epidermis y dermis y pueden dañar e
 
 - Quemaduras de cuarto grado. Las quemaduras de cuarto grado también dañan los huesos, músculos y tendones subyacentes. No hay sensación en el área, ya que las terminales nerviosas han sido destruidas.
 
+<b> La presoterapia, método estándar para el tratamiento de cicatrices </b>
+
+La presoterapia consiste en aplicar una cierta presión de manera continua sobre una cicatriz. Para obtener resultados óptimos la compresión mínima sobre la cicatriz debe de ser de 20 mmHG. Generalmente la compresión teórica debe llegar al límite de la presión capilar. Si se mantiene la presión constante a 24 mmHg permitimos a las fibras de colágeno realinear sus fibras en sentido paralelo a la par que disminuye la vascularidad y por lo tanto la síntesis exagerada de fibroblastos, de fibras reticulares y del colágeno, reduce los niveles de alfa-2 macroglobulina que favorece la acción de la colagenasa si tenemos más de 24 mmHg nos exponemos a un bloqueo del retorno venoso. 
+
+Se ha probado que con la acción de la presoterapia se produce una maduración continúa sobre los elementos celulares, las sustancias fundamentales y sobre el colágeno. La presoterapia modifica los elementos del tejido de granulación.
+Se indica la presoterapia, para la prevención de cicatrices hipertróficas, una vez que la lesión esté cerrada o que los injertos se hayan integrado, para evitar el riesgo de dañar la zona con la fricción o el desplazamiento de los injertos al colocarla,
+siempre haciendo referencia a las prendas elásticas de compresión.
+
+Otro beneficio es combatir el dolor, el prurito y el edema. La compresión en las cicatrices actúa de distintas formas, se  encuentran tres teorías posibles de acción 2,6-8. La primera plantea la reducción de la síntesis de colágeno por disminución del flujo sanguíneo, oxígeno y nutrientes en la cicatriz. La segunda se basa en la descripción de la acción directa en la fase de remodelamiento alterando la liberación y actividad de la Metaloproteasa-28 generando disminución de la presencia de la proteína. La tercera el aumento de prostaglandina E2 que activa la colagenasa.
+
+Actualmente se desconocen publicaciones sobre el abordaje con presoterapia en quemaduras faciales en pacientes pediátricos durante la etapa aguda del tratamiento ni post-autoinjerto inmediato.En aquellas quemaduras que por su profundidad hayan requerido autoinjerto, la utilización de la presoterapia post-autoinjerto inmediato, se utiliza para dar protección mecánica al injerto y favorecer su integración, ya que evita cualquier tipo de cizallamiento.
+
 <html>
 <head>
 <style>
