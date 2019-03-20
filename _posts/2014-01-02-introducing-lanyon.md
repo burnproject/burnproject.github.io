@@ -16,7 +16,6 @@ p {text-align:center;}
 </body>
 </html>
 
-
 El equipo de trabajo está conformado por:
 
 - Coordinador General - Jorge Leiva
